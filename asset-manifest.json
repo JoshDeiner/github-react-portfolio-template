@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/JoshDeiner/portfolio.git/static/css/main.63ffa884.css",
-    "main.js": "/JoshDeiner/portfolio.git/static/js/main.9515ec47.js",
-    "static/media/hero-dark.jpg": "/JoshDeiner/portfolio.git/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/JoshDeiner/portfolio.git/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/JoshDeiner/portfolio.git/service-worker.js",
-    "static/media/GH.svg": "/JoshDeiner/portfolio.git/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/defaultNavLogo.svg": "/JoshDeiner/portfolio.git/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/logo.svg": "/JoshDeiner/portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/JoshDeiner/portfolio.git/index.html",
-    "main.63ffa884.css.map": "/JoshDeiner/portfolio.git/static/css/main.63ffa884.css.map",
-    "main.9515ec47.js.map": "/JoshDeiner/portfolio.git/static/js/main.9515ec47.js.map"
+    "main.css": "/JoshDeiner/portfolio/static/css/main.63ffa884.css",
+    "main.js": "/JoshDeiner/portfolio/static/js/main.77deb2c1.js",
+    "static/media/hero-dark.jpg": "/JoshDeiner/portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/JoshDeiner/portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/JoshDeiner/portfolio/service-worker.js",
+    "static/media/GH.svg": "/JoshDeiner/portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/JoshDeiner/portfolio/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/JoshDeiner/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JoshDeiner/portfolio/index.html",
+    "main.63ffa884.css.map": "/JoshDeiner/portfolio/static/css/main.63ffa884.css.map",
+    "main.77deb2c1.js.map": "/JoshDeiner/portfolio/static/js/main.77deb2c1.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.9515ec47.js"
+    "static/js/main.77deb2c1.js"
   ]
 }
